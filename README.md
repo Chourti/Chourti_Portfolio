@@ -47,7 +47,7 @@ npm run test
 * Website: https://www.linkedin.com/in/ayman-chourti-b95a28246/
 * Twitter: [@Aymanchourti](https://twitter.com/Aymanchourti)
 * Github: [@Chourti](https://github.com/Chourti)
-* LinkedIn: [@Ayman Chourti](https://linkedin.com/in/Ayman Chourti)
+* LinkedIn: [@Ayman Chourti]([https://linkedin.com/in/Ayman Chourti](https://www.linkedin.com/in/ayman-chourti-b95a28246/))
 
 ## Show your support
 
