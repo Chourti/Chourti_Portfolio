@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to my online portfolio 👋! I am a passionate software engineer with a strong focus on full-stack development, specializing in .NET and Angular. My projects demonstrate my skills in building modern web applications, leveraging the latest technologies and frameworks such as React.js, Node.js, and Next.js.
+<h1 align="center">Welcome to my online portfolio 👋! My projects demonstrate my skills in building modern web applications, leveraging the latest technologies and frameworks such as React.js, Node.js, and Next.js.
 
-In this portfolio, you’ll find a collection of my best work, including personal projects, academic projects, and professional contributions from my recent experience at ONEE BE Casablanca. Whether it's front-end or back-end development, I strive to create clean, efficient, and scalable solutions.
+In this portfolio, you’ll find a collection of my best work, including personal projects, academic projects,
 
 Feel free to explore my projects and get in touch if you’d like to discuss potential collaborations or job opportunities! </h1>
 <p>
