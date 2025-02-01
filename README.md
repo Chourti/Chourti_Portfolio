@@ -10,6 +10,10 @@ Feel free to explore my projects and get in touch if you’d like to discuss pot
   </a>
 </p>
 
+## Screenshots
+
+
+![Screenshot 1](C:\Users\Acer Aspire Vero\Desktop\Portfolio\Images\readme-img.jpg)
 > note
 
 ### 🏠 [Homepage](home)
