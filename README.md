@@ -1,4 +1,8 @@
-<h1 align="center">Welcome to Portfolio 👋</h1>
+<h1 align="center">Welcome to my online portfolio 👋! I am a passionate software engineer with a strong focus on full-stack development, specializing in .NET and Angular. My projects demonstrate my skills in building modern web applications, leveraging the latest technologies and frameworks such as React.js, Node.js, and Next.js.
+
+In this portfolio, you’ll find a collection of my best work, including personal projects, academic projects, and professional contributions from my recent experience at ONEE BE Casablanca. Whether it's front-end or back-end development, I strive to create clean, efficient, and scalable solutions.
+
+Feel free to explore my projects and get in touch if you’d like to discuss potential collaborations or job opportunities! </h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/Aymanchourti" target="_blank">
