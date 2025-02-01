@@ -1,0 +1,123 @@
+:root {
+    --primary-color: #8a49a8; /* Couleur principale */
+    --secondary-color: #6a1b9a; /* Couleur secondaire plus foncée */
+    --imp-text-color: #914ab3; /* Couleur pour les textes importants */
+    --background-gradient: linear-gradient(135deg, #120521, #140121); /* Dégradé de fond */
+    --card-shadow: 0 4px 10px rgba(138, 73, 168, 0.3); /* Ombre basée sur la couleur principale */
+    --tech-gradient: linear-gradient(135deg, #8a49a8, #6a1b9a); /* Dégradé pour les cercles de technologie */
+    --text-color: #ffffff; /* Couleur du texte */
+    --hover-effect: rgba(138, 73, 168, 0.2); /* Effet de survol */
+  }
+  
+  .experience-section {
+    padding:110px 50px;
+    background: var(--background-gradient);
+    border-radius: 10px;
+    color: var(--text-color);
+  }
+  
+  .section-title {
+    font-size: 2.5em;
+    color: var(--imp-text-color);
+    margin-bottom: 40px;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .experience-card {
+    background: rgba(90, 23, 145, 0.182) !important; /* Forcer le fond */
+    border: none !important; /* Supprimer la bordure Bootstrap */
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: var(--card-shadow);
+    transition: all 0.3s ease;
+  }
+  
+  .experience-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(138, 73, 168, 0.6);
+    background: rgba(138, 73, 168, 0.1);
+  }
+  
+  .experience-card .card-body {
+    padding: 30px;
+  }
+  
+  .experience-card .card-title {
+    font-size: 1.8em;
+    color: var(--text-color);
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .experience-card .card-title .company {
+    color: var(--imp-text-color);
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  .experience-card .duration {
+    font-size: 1.1em;
+    color: #bbb;
+    margin-bottom: 20px;
+  }
+  
+  .experience-card .card-text {
+    font-size: 1em;
+    color: #ddd;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .tech-circle {
+    background: var(--tech-gradient);
+    color: var(--text-color);
+    padding: 10px 15px;
+    border-radius: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .tech-circle:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 15px rgba(138, 73, 168, 0.5);
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 767px) {
+    .experience-section {
+      padding: 40px 15px;
+    }
+  
+    .section-title {
+      font-size: 2em;
+    }
+  
+    .experience-card .card-body {
+      padding: 20px;
+    }
+  
+    .experience-card .card-title {
+      font-size: 1.5em;
+    }
+  
+    .card-text {
+      font-size: 0.9em;
+    }
+  
+    .tech-circle {
+      font-size: 12px;
+      padding: 8px 12px;
+    }
+  }
