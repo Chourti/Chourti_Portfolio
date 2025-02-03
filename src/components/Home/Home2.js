@@ -20,11 +20,11 @@ function Home2() {
             </h1>
             <p className="home-about-body">
             I am a recent computer science graduate from the Moroccan School of Engineering Sciences (EMSI),
-            specializing in MIAGE. I have recently completed an end-of-studies internship at the Office National de l'Électricité et de l'Eau Potable (ONEE-BE)
+            specializing in MIAGE. I have recently completed an end-of-studies internship at the National Office of Electricity and Water (ONEE-BE).
               <br />
-              <br />I am good at 
+              <br />I am highly competent in 
               <i>
-                <b className="purple"> JAVA, C#, Flutter, Angular and .NET. </b>
+                <b className="purple"> JAVA, C#, Flutter, Angular, .NET and Dart.</b>
               </i>
               <br />
 
