@@ -49,12 +49,6 @@ npm run test
 * Github: [@Chourti](https://github.com/Chourti)
 * LinkedIn: [@Ayman Chourti]([https://linkedin.com/in/Ayman Chourti](https://www.linkedin.com/in/ayman-chourti-b95a28246/))
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/Chourti">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 ***
